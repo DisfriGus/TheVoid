@@ -6,6 +6,7 @@ class Home extends Component{
         return(
             <div className="mx-[240px] max-sm:mx-0">
                 <Navbar/>
+                sdawdaw
             </div>
         )
     }
